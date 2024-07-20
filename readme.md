@@ -20,3 +20,5 @@ php bin/console doctrine:migrations:migrate
 # extensiones necesarias de php para permitir la conexion con la base de datos
 pdo_mysql
 
+# comando para instalar el proyecto utilizando composer
+composer install
